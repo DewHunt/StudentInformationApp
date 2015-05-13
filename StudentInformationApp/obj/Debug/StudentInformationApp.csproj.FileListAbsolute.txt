@@ -1,0 +1,9 @@
+E:\SALMAN SABBIR\2015-5(May)-2\StudentInformationApp\StudentInformationApp\bin\Debug\StudentInformationApp.exe.config
+E:\SALMAN SABBIR\2015-5(May)-2\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.csprojResolveAssemblyReference.cache
+E:\SALMAN SABBIR\2015-5(May)-2\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.Form1.resources
+E:\SALMAN SABBIR\2015-5(May)-2\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.Properties.Resources.resources
+E:\SALMAN SABBIR\2015-5(May)-2\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.csproj.GenerateResource.Cache
+E:\SALMAN SABBIR\2015-5(May)-2\StudentInformationApp\StudentInformationApp\bin\Debug\StudentInformationApp.exe
+E:\SALMAN SABBIR\2015-5(May)-2\StudentInformationApp\StudentInformationApp\bin\Debug\StudentInformationApp.pdb
+E:\SALMAN SABBIR\2015-5(May)-2\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.exe
+E:\SALMAN SABBIR\2015-5(May)-2\StudentInformationApp\StudentInformationApp\obj\Debug\StudentInformationApp.pdb
